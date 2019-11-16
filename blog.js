@@ -99,7 +99,7 @@ function GenerateContentList() {
 
   var content = '<a name="_labelTop"></a>'
   content += '<div id="navCategory">'
-  content += '<blockquote><p style="font-size: 18pt; color:#a2b4ba"><b></b></p>'
+  content += '<blockquote><p style="font-size: 18pt; color:#a2b4ba"><b>目录</b></p>'
   content += '<div>'
 
   for (var i = 0; i < nodes.length; i++) {
